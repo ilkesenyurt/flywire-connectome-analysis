@@ -42,7 +42,7 @@ excitatory [2, 3].
 ![NT composition vs hub size](flywire-connectome-analysis/neurotransmitter-composition-vs-hub-size.png)
 
 **2. Composition tracks the brain's functional hierarchy.
-Splitting neurons into input-percentile bins reveals a richer structure than the top-N view. With 10 bins (left), acetylcholine changes roughly monotonically; with 50 bins (right), it resolves into a clear dip-and-peak pattern, showing distinct regimes rather than a single smooth trend.
+Splitting neurons into input-percentile bins reveals a richer structure than the top-N view. With 10 bins, acetylcholine changes roughly monotonically; with 47 bins, it resolves into a clear dip-and-peak pattern, showing distinct regimes rather than a single smooth trend.
 
 ![NT composition by input bins (10 bins)](flywire-connectome-analysis/neurotransmitter-composition-by-input-percentile-bins-q10.png)
 ![NT composition by input bins (47 bins)](flywire-connectome-analysis/neurotransmitter-composition-by-input-percentile-bins-q47.png)
